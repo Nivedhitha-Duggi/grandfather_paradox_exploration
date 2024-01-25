@@ -1,4 +1,4 @@
-# Grandfather Paradox Exploration Project
+# Time Warp: Exploring Timelines and Ethics in Python
 
 This project simulates the exploration of timelines, with a focus on the Grandfather Paradox and ethical considerations in time travel scenarios. It offers functionalities for:
 
